@@ -1,0 +1,8 @@
+{
+  "name": "sse-chat",
+  "version": "0.0.1",
+  "description": "sse chat with express",
+  "dependencies": {
+    "express": "^4.10.1"
+  }
+}
